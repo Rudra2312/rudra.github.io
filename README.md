@@ -1,8 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
 
-<HTML>
-    <BODY>
-        <STROng>
-            STAY TUNED FOR MORE UPDATE...!!!
-        </STROng>
-    </BODY>
-</HTML>
+<body>
+The content of the document......
+</body>
+
+</html>
